@@ -1,0 +1,4 @@
+com\acg\inventory\bl\exceptions\BusinessException.class
+com\acg\inventory\bl\manager\UnitOfMeasurementManager.class
+com\acg\inventory\bl\vo\UnitOfMeasurementVO.class
+com\acg\inventory\bl\manager\interfaces\IUnitOfMeasurementManager.class

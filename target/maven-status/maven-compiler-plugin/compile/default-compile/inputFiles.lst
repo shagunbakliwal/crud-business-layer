@@ -1,4 +1,4 @@
-F:\Code\java-web-app\inventory\bl\inventory-bl\src\main\java\com\acg\inventory\bl\exceptions\BusinessException.java
-F:\Code\java-web-app\inventory\bl\inventory-bl\src\main\java\com\acg\inventory\bl\vo\UnitOfMeasurementVO.java
-F:\Code\java-web-app\inventory\bl\inventory-bl\src\main\java\com\acg\inventory\bl\manager\interfaces\IUnitOfMeasurementManager.java
-F:\Code\java-web-app\inventory\bl\inventory-bl\src\main\java\com\acg\inventory\bl\manager\UnitOfMeasurementManager.java
+F:\Code\java-web-app\inventory\crud-business-layer\src\main\java\com\acg\inventory\bl\vo\UnitOfMeasurementVO.java
+F:\Code\java-web-app\inventory\crud-business-layer\src\main\java\com\acg\inventory\bl\manager\interfaces\IUnitOfMeasurementManager.java
+F:\Code\java-web-app\inventory\crud-business-layer\src\main\java\com\acg\inventory\bl\manager\UnitOfMeasurementManager.java
+F:\Code\java-web-app\inventory\crud-business-layer\src\main\java\com\acg\inventory\bl\exceptions\BusinessException.java
